@@ -8,7 +8,7 @@
 
 코딩하는 쿼카 팀장 (2021.05~ing)  
 
-
+  
 
 ### Project
 
@@ -22,7 +22,7 @@ President.CQ (2022.04~개발중)  (모바일, 게임)
 
 한성대학교 통합 기자재 대여 시스템 (2022.03~개발중)  (모바일, 웹)    
 
- 
+   
 
 ### Awards
 
@@ -36,3 +36,12 @@ President.CQ (2022.04~개발중)  (모바일, 게임)
 
 2022 한성발전공헌 총장상 (한성대학교)  
 
+  
+
+
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://dequista.tistory.com/)](http://dequista.tistory.com/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwang-YoonGyu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-YoonGyu&langs_count=8&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
