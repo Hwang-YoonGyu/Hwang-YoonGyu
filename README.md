@@ -1,5 +1,7 @@
 # Hwang-YoonGyu
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwang-YoonGyu&count_bg=%23E58181&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ### Info
 
 한성대학교 17학번  (2017.03~2023.02)  
@@ -7,9 +9,9 @@
 2021학년도 한성대학교 컴퓨터공학부 부학생회장 (2021.03~2022.02)
 
 코딩하는 쿼카 팀장 (2021.05~ing)  
+
   
-  
-  
+
 ### Project
 
 한성대학교 메타버스 캠퍼스 : HSU_On (2021.05~서비스중)  (모바일, 게임)    
@@ -21,9 +23,9 @@ President.CQ (2022.04~개발중)  (모바일, 게임)
 한성대학교 통합 설문조사 시스템 (2022.06~개발중)  (웹)    
 
 한성대학교 통합 기자재 대여 시스템 (2022.03~개발중)  (모바일, 웹)    
+
   
-  
-  
+
 ### Awards
 
 2021 한성공학경진대회 금상 (한성대학교)  
@@ -35,9 +37,9 @@ President.CQ (2022.04~개발중)  (모바일, 게임)
 2022 한성대학교 컴퓨터공학부 캡스톤디자인 우수상 (한성대학교)  
 
 2022 한성발전공헌 총장상 (한성대학교)  
+
   
-  
-  
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://dequista.tistory.com/)](http://dequista.tistory.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwang-YoonGyu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
