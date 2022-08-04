@@ -4,13 +4,13 @@
 
 ### Info
 
-한성대학교 17학번  (2017.03~2023.02)  
+| 경력                                          | 기간            |
+| --------------------------------------------- | --------------- |
+| 한성대학교 17학번                             | 2017.03~2023.02 |
+| 2021학년도 한성대학교 컴퓨터공학부 부학생회장 | 2021.03~2022.02 |
+| 코딩하는 쿼카 팀장                            | 2021.05~ing     |
 
-2021학년도 한성대학교 컴퓨터공학부 부학생회장 (2021.03~2022.02)
 
-코딩하는 쿼카 팀장 (2021.05~ing)  
-
-  
 
 ### Project
 
@@ -40,20 +40,8 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://dequista.tistory.com/)](http://dequista.tistory.com/) : 개인 Tistory Blog
 
-<div align="center">
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwang-YoonGyu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) </div>
 
 
-​    
-```HTML
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-YoonGyu&langs_count=8&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div>
-```
-
-
-
-
-
-  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwang-YoonGyu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-YoonGyu&langs_count=8&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
