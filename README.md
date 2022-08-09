@@ -1,5 +1,43 @@
 # Hwang-YoonGyu
 
+
+
+<div align=center><h3>📚 STACKS</h3></div>
+
+<div align=center>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+	<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=for-the-badge&logo=Android Studio&logoColor=white">
+    <img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/raspberry pi-a22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/amazon aws-232f3e?style=for-the-badge&logo=amazon aws&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+    <img src="https://img.shields.io/badge/google play-414141?style=for-the-badge&logo=google play&logoColor=white">
+	<img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
+    <br>
+
+​    
+
+
+
+
+
+
+​    
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwang-YoonGyu&count_bg=%23E58181&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### 😁Info😁
@@ -45,3 +83,6 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwang-YoonGyu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-YoonGyu&langs_count=8&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
