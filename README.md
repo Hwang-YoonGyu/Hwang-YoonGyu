@@ -29,16 +29,7 @@
 	<img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
     <br>
 
-​    
-
-
-
-
-
-
-​    
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwang-YoonGyu&count_bg=%23E58181&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwang-YoonGyu&count_bg=%23202020&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### 😁Info😁
 
@@ -74,11 +65,13 @@
 
 
 
-  
+  <br>
+
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://dequista.tistory.com/)](http://dequista.tistory.com/) : 개인 Tistory Blog
 
-
+<br>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hwang-YoonGyu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
