@@ -2,7 +2,7 @@
 
 
 
-<div align=center><h4>📚📚</h4></div>
+<div align=center><h4>📚Stacks📚</h4></div>
 
 <div align=center>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
