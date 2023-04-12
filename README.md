@@ -18,12 +18,12 @@
     <img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/raspberry pi-a22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
-    <img src="https://img.shields.io/badge/vuedotjs-4fc08d?style=for-the-badge&logo=raspberry pi&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=raspberry pi&logoColor=black">
+    <img src="https://img.shields.io/badge/vuedotjs-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=app store&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/amazon aws-232f3e?style=for-the-badge&logo=amazon aws&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
