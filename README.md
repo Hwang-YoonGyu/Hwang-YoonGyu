@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/raspberry pi-a22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
     <img src="https://img.shields.io/badge/vuedotjs-4fc08d?style=for-the-badge&logo=raspberry pi&logoColor=white">
-    <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=raspberry pi&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=raspberry pi&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
