@@ -21,7 +21,7 @@
     <br>
     <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=app store&logoColor=white">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=app store&logoColor=white">
 	
     <br>
     <img src="https://img.shields.io/badge/amazon aws-232f3e?style=for-the-badge&logo=amazon aws&logoColor=white">
