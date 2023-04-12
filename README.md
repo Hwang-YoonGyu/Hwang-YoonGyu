@@ -14,19 +14,21 @@
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-	<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=for-the-badge&logo=Android Studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=for-the-badge&logo=Android Studio&logoColor=white">
     <img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/raspberry pi-a22846?style=for-the-badge&logo=raspberry pi&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=app store&logoColor=white">
+	
     <br>
     <img src="https://img.shields.io/badge/amazon aws-232f3e?style=for-the-badge&logo=amazon aws&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     <img src="https://img.shields.io/badge/google play-414141?style=for-the-badge&logo=google play&logoColor=white">
-	<img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
+    <img src="https://img.shields.io/badge/app store-0d96f6?style=for-the-badge&logo=app store&logoColor=white">
     <br>
 <br>
 
